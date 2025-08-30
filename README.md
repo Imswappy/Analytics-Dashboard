@@ -27,6 +27,7 @@ Metrics are displayed in **info cards with icons** for quick insights.
 - **Bar Chart**: Investment by Business Type  
 - **Line Chart**: Investment by State  
 - **Pie Chart**: Ratings distribution by State  
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/924a24e5-fdff-428e-bef3-03dd9ac31d39" />
 
 All visualizations are powered by **Plotly Express** for interactivity.
 
@@ -34,6 +35,7 @@ All visualizations are powered by **Plotly Express** for interactivity.
 - Custom **animated progress bar** showing percentage of target investment achieved  
 - Updates dynamically with dataset values  
 - Custom CSS gradient for better visualization  
+<img width="1410" height="819" alt="image" src="https://github.com/user-attachments/assets/f7eec964-566a-4953-a0c8-58fe494e1308" />
 
 ### 🔹 SQL Lab (Learning Mode)
 A dedicated **SQL Lab tab** with **20 advanced SQL challenges**:
@@ -46,6 +48,8 @@ A dedicated **SQL Lab tab** with **20 advanced SQL challenges**:
   - **Download results as CSV**
   - Toggle to view official **solution SQL code**
   - **Auto-validation**: Compares your result with solution (order-insensitive)
+  - <img width="1915" height="765" alt="image" src="https://github.com/user-attachments/assets/42515af4-611a-4c12-b1c8-8f760cb23b09" />
+
 
 ### 🔹 Custom Styling
 - A `style.css` file adds a polished look & feel  
