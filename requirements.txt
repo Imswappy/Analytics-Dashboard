@@ -5,3 +5,4 @@ openpyxl
 numpy
 numerize
 streamlit_option_menu
+tabulate
