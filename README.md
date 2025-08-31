@@ -34,7 +34,7 @@ All visualizations are powered by **Plotly Express** for interactivity.
 ### 🔹 Progress Tracker
 - Custom **animated progress bar** showing percentage of target investment achieved  
 - Updates dynamically with dataset values  
-- Custom CSS gradient for better visualization  
+- Custom made CSS gradient for better visualization  
 <img width="1410" height="819" alt="image" src="https://github.com/user-attachments/assets/f7eec964-566a-4953-a0c8-58fe494e1308" />
 
 ### 🔹 SQL Lab (Learning Mode)
